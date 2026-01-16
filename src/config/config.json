@@ -38,7 +38,7 @@
   "subTitleConfig": {
     "typing": false,
     "loading": "wave",
-    "loopTyping": true,
+    "loopTyping": false,
     "shadow": false,
     "typingCursor": true,
     "showFrom": true,
