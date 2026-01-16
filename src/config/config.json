@@ -16,7 +16,7 @@
     "bg": ["/d2.webp"],
     "mbg": ["/m1.webp"],
     "bgStyle": "snow",
-    "blur": "",
+    "blur": "none",
     "cardOpacity": 0.1,
     "carousel": true,
     "carouselGap": 5,
