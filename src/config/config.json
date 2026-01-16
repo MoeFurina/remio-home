@@ -51,7 +51,7 @@
     {
       "title": "qq",
       "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=423016289",
+      "url": "https://qm.qq.com/q/cWxiXsbO94",
       "icon": "qq"
     },
     {
@@ -80,6 +80,12 @@
     }
   ],
   "sites": [
+    {
+      "icon": "https://github.com/MoeFurina/myVeryFristIndexPage/blob/master/public/assets/images/webicon.webp?raw=true",
+      "title": "文章推送",
+      "url": "https://posts.focalors.ltd",
+      "desc": "查看推送文章"
+    }
   ],
   "sitesConfig": {
     "hidden": false,
