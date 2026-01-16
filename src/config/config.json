@@ -1,6 +1,6 @@
 {
   "name": "MoeFurina & ElyPrism",
-  "favicon": "/45487685.jpg",
+  "favicon": "https://github.com/MoeFurina/myVeryFristIndexPage/blob/master/public/assets/images/webicon.webp?raw=true",
   "keywords": "remio,rem,mio,C.C.,MoeFurina,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
@@ -13,8 +13,8 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://www.focalors.ltd/assets/images/banner.webp"],
-    "mbg": ["https://www.focalors.ltd/assets/images/bannerm.png"],
+    "bg": ["/d2.webp"],
+    "mbg": ["/m1.webp"],
     "bgStyle": "snow",
     "blur": "",
     "cardOpacity": 0.1,
